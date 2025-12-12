@@ -1,0 +1,11 @@
+### Анотація
+Українцев І.І. Моделювання процесів електронної комерції.
+У роботі досліджено теоретичні основи моделювання поведінки споживачів в електронній комерції, проаналізовано психологічні та соціальні фактори, що впливають на прийняття рішень про покупку онлайн, а також оглянуто існуючі моделі поведінки споживачів та їх адаптацію до цифрового середовища.
+Розроблено методологію збору даних про поведінку користувачів, обґрунтовано вибір методів моделювання (статистичних та машинного навчання) та програмних інструментів для аналізу; на прикладі інтернет-магазину The Kyiv Independent Store побудовано прогностичні моделі для оцінки ймовірності покупки, відтоку клієнтів та ефективності маркетингових кампаній; виконано сегментацію клієнтської бази на основі машинного навчання та створено візуалізацію шляху клієнта (Customer Journey Map); розроблено практичні рекомендації з оптимізації e-commerce процесів та оцінено їх економічний ефект.
+Ключові слова: електронна комерція, моделювання поведінки споживачів, машинне навчання, прогностична аналітика, Customer Journey Map, сегментація клієнтів.
+
+### Summary
+Ukraintsev I. Modeling of e-commerce processes.
+The work examines the theoretical foundations of modeling consumer behavior in e-commerce, analyzes psychological and social factors that influence online purchase decision-making, and reviews existing consumer behavior models and their adaptation to the digital environment.
+A methodology for collecting data on user behavior has been developed, methods of modeling (statistical and machine learning) and software tools for analysis have been justified; using the example of The Kyiv Independent Store online store, predictive models have been built to assess the probability of purchase, customer churn, and marketing campaign effectiveness; customer base segmentation based on machine learning has been performed and customer journey visualization (Customer Journey Map) has been created; practical recommendations for optimizing e-commerce processes have been developed and their economic effect has been evaluated.
+Key words: e-commerce, consumer behavior modeling, machine learning, predictive analytics, Customer Journey Map, customer segmentation.
